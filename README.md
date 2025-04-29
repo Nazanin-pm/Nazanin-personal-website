@@ -10,7 +10,7 @@ Welcome! This is the source code for my personal website — designed to showcas
 
 ## 🚀 Live Website
 
-👉 [Visit my website here](file:///Users/nazaninpm/Documents/website/vcard-personal-portfolio/index.html?fullname=naz&email=naz%40yahoo.com&message=hi#)  
+👉 [Visit my website here](https://nazanin-pm.github.io/Nazanin-personal-website/)  
 
 
 ---
@@ -18,7 +18,8 @@ Welcome! This is the source code for my personal website — designed to showcas
 
 ## 📸 Preview
 
-  <img width="1422" alt="Screenshot 2025-04-28 at 5 55 44 PM" src="https://github.com/user-attachments/assets/ac3e5368-a2bc-4168-bb2f-ab11996e18ec" />
+ <img width="1439" alt="Screenshot 2025-04-28 at 7 18 46 PM" src="https://github.com/user-attachments/assets/425775af-ad7d-4b0f-b314-51497fd8dada" />
+
 
 
 ---
